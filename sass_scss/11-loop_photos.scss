@@ -1,1 +1,11 @@
+@import '11-photos.scss';
 
+@function background-image-path($name) {
+  @return image-url("photos/#{$name}.jpg"); // Assuming your images are in a folder named "photos"
+}
+
+@each $name in $list-names {
+  .photo-#{$name} {
+    background: background-image-path($name) no-repeat;
+  }
+}
