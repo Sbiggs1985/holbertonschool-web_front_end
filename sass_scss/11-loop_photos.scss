@@ -1,1 +1,7 @@
+@import "11-photos";
 
+@each name in $list-names {
+  .photo-#{$name} {
+    background: image-url("photos/#{$map-get($photo-map, $name)}") no-repeat;
+  }
+}
