@@ -1,7 +1,1 @@
-$list-names: julien, john, sam, damian;
 
-@each $i in $list-names {
-  .photo-#{$i} {
-    background: image-url("photos/#{$i}.jpg") no-repeat;
-  }
-}
