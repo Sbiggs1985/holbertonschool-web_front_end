@@ -1,4 +1,4 @@
-<h2>HTML Advanced</h2>
+<h2>Flexbox</h2>
 <hr>
 <div>
   <span>&#128188;</span> Specializations - Web Stack Programming | Back-End<br>
