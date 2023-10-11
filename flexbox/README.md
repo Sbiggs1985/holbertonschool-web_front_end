@@ -16,12 +16,12 @@
 
 <h3>General &#10230;</h3>
 <ul>
-  <li>All Files should end with a new line.</li>
-  <li>A README.md file, at the root of the folder of the project.</li>
-  <li>No imported or external files.</li>
-  <li>The code should be W3C compliant and validated.</li>
+  <li>What is Flexbox?</li>
+  <li>How to convert float positioning to a flex display</li>
+  <li>How to horizontally and vertically align elements using Flexbox</li>
 </ul>
 <hr>
 <h3>Learning Objective &#10230;</h3>
 <ol>
-  <li>What is HTML</li>
+  <li>Shorthands for flex</li>
+  <li>How to create a new page with flex in mind</li>
