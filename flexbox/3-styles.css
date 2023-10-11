@@ -380,6 +380,10 @@
   flex-direction: row-reverse;
 }
 
+.section-services {
+    flex-wrap: value;
+}
+
   /*** 4. CARD ***/
   
   /* Card (all styles)
