@@ -7,10 +7,9 @@
 <hr>
 <h2>Tasks</h2>
 <ul>
-  <li>I will implement from scratch a webpage from a designer file.</li>
-  <li>Focus on the HTML structure only</li>
-  <li>This designer file will be available on Figma</li>
-  <li>And “Duplicate to your Drafts” to have access to all design details.
+  <li>HTML Starter File</li>
+  <li>CSS Starter File</li>
+  <li>Article.html File</li>
 </li>
 </ul>
 <hr>
