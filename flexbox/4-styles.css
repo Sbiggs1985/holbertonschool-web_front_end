@@ -194,7 +194,6 @@
   
   [class*='col-'] {
       magin: 1rem;
-      float: left;
   }
   
   .col-1-3 {
