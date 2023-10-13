@@ -13,3 +13,10 @@
   <li>Tools to use for Web Accessibility</li>
 </ul>
 <hr>
+<h3>General</h3>
+<ul>
+  <li>A README.md at the root of the project directory is mandatory</li>
+  <li>HTML and CSS have been rendered on Chrome 78 or more.</li>
+  <li>Use 00-Index.html File</li>
+  <li>Use 00-style.css File</li>
+</ul>
