@@ -23,3 +23,5 @@
 <hr>
 <h3>Resources</h3>
 <p>https://getbootstrap.com/docs/4.4/getting-started/introduction/</p>
+<hr>
+<span style="color: red;">This text is red.</span>
