@@ -1,4 +1,4 @@
-<h3 style=color: purple;>Bootstrap</h3>
+<h3 style="color: purple;">Bootstrap</h3>
 <hr>
 <div>
   <span>&#128188;</span> Specializations - Web Stack Programming | Back-End<br>
@@ -23,3 +23,5 @@
 <hr>
 <h3>Resources</h3>
 <p>https://getbootstrap.com/docs/4.4/getting-started/introduction/</p>
+<hr>
+![image](https://github.com/Sbiggs1985/holbertonschool-web_front_end/assets/78326908/0083d6c8-101b-4021-a6c2-b101345517c8)
