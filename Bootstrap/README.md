@@ -1,5 +1,11 @@
 <h3>Bootstrap</h3>
 <hr>
+<div>
+  <span>&#128188;</span> Specializations - Web Stack Programming | Back-End<br>
+  <span>&#128218;</span> Holberton School
+</div>
+
+<hr>
 <h2>Learning Objectives</h2>
 <ul>
   <li>Usage of Containers</li>
