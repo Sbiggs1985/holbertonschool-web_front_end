@@ -1,4 +1,4 @@
-<h3 style="color: red;">Bootstrap</h3>
+<h3>Bootstrap</h3>
 <hr>
 <div>
   <span>&#128188;</span> Specializations - Web Stack Programming | Back-End<br>
