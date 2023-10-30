@@ -1,1 +1,42 @@
+/* Custom Styles for Bootstrap Elements */
 
+/* Primary Button */
+.btn-primary {
+    background-color: #E0003C;
+    border-color: #E0003C;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+    background-color: #BC1340;
+    border-color: #BC1340;
+}
+
+/* Primary Outline Button */
+.btn-outline-primary {
+    color: #E0003C;
+    border-color: #E0003C;
+}
+
+/* Links */
+a {
+    color: #E0003C;
+}
+
+a:hover, a:focus {
+    color: #E0003C;
+}
+
+/* Card */
+.card {
+    border: 1px solid #E0003C;
+    border-radius: 1rem;
+}
+
+.card-header, .card-footer {
+    border-color: #E0003C;
+}
+
+/* Text-muted */
+.text-muted {
+    color: #8C8C8C;
+}
