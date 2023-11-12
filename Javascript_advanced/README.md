@@ -1,5 +1,4 @@
 <h1>JavaScript Functions</h1>
-<hr>
 <h2>Learning Objective</h2>
 <hr>
 <h3>What is lexical scoping in JavaScript:</h3>
