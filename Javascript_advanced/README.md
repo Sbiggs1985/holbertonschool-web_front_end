@@ -1,6 +1,5 @@
 <h1>JavaScript Functions</h1>
 <h2>Learning Objective</h2>
-<hr>
 <h3>What is lexical scoping in JavaScript:</h3>
 <p>Lexical scoping refers to the way variable access is determined by the position of the variables within the code.</p>
 <ul>
