@@ -8,3 +8,4 @@
 </ul>
 <p>Lexical scoping is fundamental to how JavaScript handles variable scope and helps to create a clear and predictable environment for managing variables in your code.</p>
 <hr>
+<h3>What is closure in JavaScript:</h3>
