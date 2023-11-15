@@ -9,3 +9,9 @@
 <p>Lexical scoping is fundamental to how JavaScript handles variable scope and helps to create a clear and predictable environment for managing variables in your code.</p>
 <hr>
 <h3>What is closure in JavaScript:</h3>
+<p>Closures occur when a function is defined inside another function (the outer function) and has access to the outer functions variables. This inner function retains access to the outer functions variables even after the outer function has finished executing.</p>
+<p>A closure "closes over" its surrounding scope, preserving access to variables.</p>
+<ul>
+<li>Outer function: The function that contains the inner function.</li>
+<li>Inner function: The function defined inside the outer function.</li>
+</ul>
