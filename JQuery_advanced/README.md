@@ -1,4 +1,4 @@
-<h1>jQuery advanced</h1>
+<h1>jQuery Advanced</h1>
 
 <div>
   <span>&#128188;</span> Specializations - Web Stack Programming | Back-End<br>
