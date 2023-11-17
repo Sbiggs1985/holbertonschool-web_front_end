@@ -1,5 +1,10 @@
 <h1>jQuery advanced</h1>
-<hr>
+
+<div>
+  <span>&#128188;</span> Specializations - Web Stack Programming | Back-End<br>
+  <span>&#128218;</span> Holberton School
+</div>
+
 <h2>Learning Objectives</h2>
 <ul>
   <li>Learn how to load jQuery from a CDN in a page</li>
