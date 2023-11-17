@@ -40,4 +40,5 @@
 <h3>Creating Pagination</h3>
 <p>Pagination is a common requirement in web development, especially for content-heavy applications. Discover how jQuery facilitates the creation of pagination controls. By efficiently managing and displaying large datasets, pagination enhances the user experience, ensuring content is presented in manageable chunks.</p>
 
+<h3>Conclusion</h3>
 <p>In conclusion, jQuery is a dynamic tool that empowers web developers to create interactive and responsive websites. From loading the library to manipulating the DOM, handling user interactions, and managing server communications, jQuery proves to be an invaluable asset. This essay provides a foundational understanding of jQuery's capabilities, encouraging further exploration and application in your web development endeavors.</p>
