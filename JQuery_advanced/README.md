@@ -2,7 +2,7 @@
 
 <div>
   <span>&#128188;</span> Specializations - Web Stack Programming | Back-End<br>
-  <span>&#128218;</span> Holberton School
+  <span>&#128218;</span> Holberton School | Computer Science and Full-Stack Web Development
 </div>
 
 <h2>Learning Objectives</h2>
