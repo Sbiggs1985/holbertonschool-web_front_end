@@ -16,7 +16,8 @@
   <li>Learn how to create a pagination</li>
 </ul>
 <hr>
-<h2>Exploring jQuery for Dynamic Web Development</h2>
+
+<h3>Exploring jQuery for Dynamic Web Development</h3>
 <p>In the dynamic landscape of web development, jQuery has emerged as a powerful and versatile JavaScript library that simplifies the intricacies of client-side scripting. This essay aims to guide you through fundamental aspects of jQuery, covering loading jQuery from a Content Delivery Network (CDN), manipulating the Document Object Model (DOM), and performing AJAX queries.</p>
 <br>
 <h3>Loading jQuery from a CDN</h3>
