@@ -8,10 +8,28 @@
     <title>Create Basic Cookie</title>
   </head>
   <body>
-    <input type="text" id="firstname" email="email" />
+    <input type="text" id="firstname" />
+    <input type="text" id="email" />
 
-    <div>
-      <button>Log me in</button>
-    </div>
+    <button onclick="setCookies()">Log me in</button>
+
+    <button onclick="showCookies()">Show the cookies</button>
+
+    <script type="text/javascript">
+      function setCookies() {
+        let firstname = document.getElementById("firstname").value;
+        let email = document.getElementById("email").value;
+        document.cookie = `firstname=${firstname}`;
+        document.cookie = `email=${email}`;
+      }
+
+      function showCookies() {
+        let x = document.cookie;
+        const itemsCookies = document.querySelector(".cookies");
+        let cookie = document.createElement("p");
+        cookie.innerHTML = `Cookies: ${x}`;
+        itemsCookies.append(cookie);
+      }
+    </script>
   </body>
 </html>
